@@ -1,2 +1,2 @@
-# Rise-Shine
-A wholesome app that texts a photo of a cute animal to you every morning using Twilio's Messaging API and BeautifulSoup.
+# Rise & Shine
+This application uses BeautifulSoup to scrape photos of cute animals off the web and texts a random one to a designated phone number at a specified time each day, using Twilio's Messaging API and the Python schedule library. 
